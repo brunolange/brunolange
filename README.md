@@ -1,9 +1,6 @@
-<a href="https://github.com/brunolange">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=brunolange&hide=contribs&count_private=true&show_icons=true&hide_title=true" />
-</a>
-<a href="https://github.com/brunolange">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunolange&layout=compact&hide_title=true" />
-</a>
+![Bruno's github stats](https://github-readme-stats.vercel.app/api?username=brunolange&hide=contribs&count_private=true&show_icons=true&hide_title=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunolange&layout=compact&hide_title=true)
 
 <!--
 **brunolange/brunolange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
