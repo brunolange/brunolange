@@ -1,6 +1,6 @@
 ### If at First You Don't Succeed, Sudo, Bang Bang.
 
-![Bruno's github stats](https://github-readme-stats.vercel.app/api?username=brunolange&hide=contribs&count_private=true&show_icons=true&hide_title=true)
+![Bruno's github stats](https://github-readme-stats.vercel.app/api?username=brunolange&hide=contribs&count_private=true&show_icons=true&hide_title=true&theme=transparent)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunolange&layout=compact&hide_title=true&hide=html)
 
